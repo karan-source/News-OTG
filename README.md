@@ -6,4 +6,4 @@ News Feed Android application that provides local and world wide new content to 
 Currently this project is on localhost.
 
 # Screenshots
-![Alt Text](https://user-images.githubusercontent.com/71029952/97140236-280c1580-1782-11eb-8094-9969be766e72.jpg)
+![Alt Text](https://user-images.githubusercontent.com/71029952/97140236-280c1580-1782-11eb-8094-9969be766e72.jpg) ![Alt Text](https://user-images.githubusercontent.com/71029952/97140314-4c67f200-1782-11eb-9a08-c65bca38b38a.jpg)
